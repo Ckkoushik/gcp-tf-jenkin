@@ -11,8 +11,8 @@ Video Tutorial :   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)
 ## Features
 
 - Automates infrastructure deployment on Google Cloud Platform
-- Integrates Jenkins for CI/CD pipeline orchestration
-- Utilizes Terraform for infrastructure as code (IaC)
+* Integrates Jenkins for CI/CD pipeline orchestration
++ Utilizes Terraform for infrastructure as code (IaC)
 - Triggers pipeline execution on GitHub repository changes
 
 ## Setup
